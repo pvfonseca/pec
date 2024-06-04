@@ -6,3 +6,5 @@
 | Gabriel Coutinho | A quick refresher course in Macroeconomics | Gregory Mankiw | 1990 | xxx |
 | Gustavo Oliveira Araujo | Does monetary policy matter? The narrative approach after 35 years | Christina Romer, David Romer | 2023 | xxx |
 | Artur Nocetti Roman | Central bank communication and monetary policy: a survey of theory and evidence | Blinder et al. | 2008 | xxx |
+| Bernardo | Marshall and Walras | De Vroey | 2009 | xxx |
+| Arthur Furtado | Is there something really wrong with macro | Ricardo Reis | 2018 | xxx |
