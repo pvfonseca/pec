@@ -10,3 +10,4 @@
 | Arthur Furtado | Is there something really wrong with macro | Ricardo Reis | 2018 | xxx |
 | Ana Carla | The political economy of fiscal deficits: A survey | Eslava | 2011 | xxx |
 | Davi | Stochastic implications of the life cycle-permanent income hypothesis: theory and evidence | Robert Hall | 1978 | xxx |
+| Pedro Perruolo | The State of Macro | Olivier Blanchard | 2008 | xxx |
