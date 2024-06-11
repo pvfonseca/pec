@@ -10,5 +10,6 @@
 | Gustavo Oliveira Araujo | Does monetary policy matter? The narrative approach after 35 years | Christina Romer, David Romer | 2023 | 25/06 |
 | Gabriel dos Santos Campregher  | Inside the black box: the credit channel of monetary policy transmission | Ben Bernanke, Mark Gertler | 1995 | 25/06 |
 | Artur Nocetti Roman | Central bank communication and monetary policy: a survey of theory and evidence | Blinder et al. | 2008 | 28/06 |
+| Emerson Gustavo da Silva Soares | Communication about future policy rates in theory and practice - A survey | Moessner, Hansen, de Haan | 2016 | 28/06 |
 | Ana Carla da Silva | The political economy of fiscal deficits: A survey | Eslava | 2011 | 28/06 |
 | Davi Pizelman Rost  | Stochastic implications of the life cycle-permanent income hypothesis: theory and evidence | Robert Hall | 1978 | 28/06 |
