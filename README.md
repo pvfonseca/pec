@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://pvfonseca.github.io/teaching/pec/"><b> Website do curso</b> :computer:</a></p>
 
-> ## Informações
+> [!NOTE]
 > Docente: <a href="https://pvfonseca.github.io"> Paulo Victor da Fonseca </a>
 >
 > Contato: <a href="mailto:paulo.fonseca@udesc.br"> paulo.fonseca@udesc.br</a>
@@ -11,7 +11,7 @@
 >
 > Horários:
 >
-> * Terças-feiras das 08:20 às 10:00
+> * Terças-feiras das 10:15 às 11:55
 > * Sextas-feiras das 08:20 às 10:00
 > 
 ## Descrição do curso
@@ -41,3 +41,5 @@ JONES, C.I. Introdução à Teoria do Crescimento Econômico. São Paulo: Campus
 ROMER, D. Advanced Macroeconomics. 4.ed. Boston, MA: McGraw-Hill, 2012.
 
 👉 SNOWDON, B.; VANE, H.R. Modern Macroeconomics: its Origins, Development and Current State. Northampton, MA: Edward Elgar, 2005.
+
+> :warning: **Bibliografias complementares poderão ser indicadas ao longo do semestre.**
