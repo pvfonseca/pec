@@ -1,6 +1,6 @@
 | Discente | Artigo | Autores | Ano | Data de apresentação |
 | :--- | :---: | :---: | :---: | ---: |
-| Ali Ahmad Hamadi |  |  |  |  |
+| Ali Ahmad Brad Pileggi Hamadi |  |  |  |  |
 | Amanda de Oliveira Marques |  |  |  |  |
 | Betina Schweitzer Bastos |  |  |  |  |
 | Bruno Barcellos Gomes |  |  |  |  |
