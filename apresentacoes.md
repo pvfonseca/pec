@@ -12,7 +12,7 @@
 | Maria Paula Dubiela Prada |  |  |  |  |
 | Matheus Lima de Andrade | Central bank communication and monetary policy: a survey of theory and evidence | Blinder et al. | 2008 |  |
 | Nicole Galloway Araujo |  |  |  |  |
-| Pedro Giacomelli Lopes |  |  |  |  |
+| Pedro Giacomelli Lopes | Endogenous money: what is and why it matters? | Thomas Palley | 2000 |  |
 | Pedro Osvaldo Elias |  |  |  |  |
 | Rômulo Henrique Sabino Pereira |  |  |  |  |
 | Sofia Gonzales |  |  |  |  |
