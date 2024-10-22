@@ -5,7 +5,8 @@
 | Betina Schweitzer Bastos |  |  |  |  |
 | Bruno Barcellos Gomes |  |  |  |  |
 | Isadora Nathanaela Biessek |  |  |  |  |
-| João Gabriel Souza Damasceno |  | |  |  |
+| João Gabriel Souza Damasceno | National Science Foundation white paper on future research in macroeconomics | Ricardo Reis | --- |  |
+| João Gabriel Souza Damasceno | Research opportunities in Economics: suggestions for the coming decade | James Poterba | 2010 |  |
 | João Pedro Melo Zimmermann |  |  |  |  |
 | Luca Rafael da Silva Faria |  |  |  |  |
 | Maria Paula Dubiela Prada |  |  |  |  |
@@ -15,5 +16,5 @@
 | Pedro Osvaldo Elias |  |  |  |  |
 | Rômulo Henrique Sabino Pereira |  |  |  |  |
 | Sofia Gonzales |  |  |  |  |
-| Thiago Vieira Xavier Sant'anna |  |  |  |  |
+| Thiago Vieira Xavier Sant'anna | Monetary policy in a new era | Ben Bernanke | 2017 |  |
 | Vitória Biasotto Coelho |  |  |  |  |
