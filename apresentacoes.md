@@ -15,6 +15,6 @@
 | Pedro Giacomelli Lopes | Endogenous money: what is and why it matters? | Thomas Palley | 2000 |  |
 | Pedro Osvaldo Elias |  |  |  |  |
 | Rômulo Henrique Sabino Pereira |  |  |  |  |
-| Sofia Gonzales |  |  |  |  |
+| Sofia Gonzales | A quick refresher course in macroeconomics | Gregory Mankiw | 1990 |  |
 | Thiago Vieira Xavier Sant'anna | Monetary policy in a new era | Ben Bernanke | 2017 |  |
 | Vitória Biasotto Coelho |  |  |  |  |
