@@ -17,4 +17,4 @@
 | Rômulo Henrique Sabino Pereira |  |  |  |  |
 | Sofia Gonzales | A quick refresher course in macroeconomics | Gregory Mankiw | 1990 |  |
 | Thiago Vieira Xavier Sant'anna | Monetary policy in a new era | Ben Bernanke | 2017 |  |
-| Vitória Biasotto Coelho |  |  |  |  |
+| Vitória Biasotto Coelho | Is there something really wrong with Macro? | Ricardo Reis | 2018 |  |
