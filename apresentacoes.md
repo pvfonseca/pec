@@ -2,13 +2,13 @@
 | :--- | :---: | :---: | :---: | ---: |
 | Ali Ahmad Brad Pileggi Hamadi |  |  |  |  |
 | Amanda de Oliveira Marques |  |  |  |  |
-| Betina Schweitzer Bastos |  |  |  |  |
+| Betina Schweitzer Bastos | The History of Macroeconomics from Keynes’s General Theory to the Present | De Vroey, Malgrange | 2011 |  |
 | Bruno Barcellos Gomes |  |  |  |  |
 | Isadora Nathanaela Biessek |  |  |  |  |
 | João Gabriel Souza Damasceno | National Science Foundation white paper on future research in macroeconomics | Ricardo Reis | --- |  |
 | João Gabriel Souza Damasceno | Research opportunities in Economics: suggestions for the coming decade | James Poterba | 2010 |  |
 | João Pedro Melo Zimmermann |  |  |  |  |
-| Luca Rafael da Silva Faria |  |  |  |  |
+| Luca Rafael da Silva Faria | The political economy of fiscal deficits: a survey | Marcela Eslava | 2011 |  |
 | Maria Paula Dubiela Prada |  |  |  |  |
 | Matheus Lima de Andrade | Central bank communication and monetary policy: a survey of theory and evidence | Blinder et al. | 2008 |  |
 | Nicole Galloway Araujo |  |  |  |  |
