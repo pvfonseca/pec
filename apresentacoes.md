@@ -7,7 +7,7 @@
 | Isadora Nathanaela Biessek |  |  |  |  |
 | João Gabriel Souza Damasceno | National Science Foundation white paper on future research in macroeconomics | Ricardo Reis | --- |  |
 | João Gabriel Souza Damasceno | Research opportunities in Economics: suggestions for the coming decade | James Poterba | 2010 |  |
-| João Pedro Melo Zimmermann |  |  |  |  |
+| João Pedro Melo Zimmermann | Communication about future policy rates in theory and practice: A survey | Moessner, Hansen, de Haan | 2016 |  |
 | Luca Rafael da Silva Faria | The political economy of fiscal deficits: a survey | Marcela Eslava | 2011 |  |
 | Maria Paula Dubiela Prada |  |  |  |  |
 | Matheus Lima de Andrade | Central bank communication and monetary policy: a survey of theory and evidence | Blinder et al. | 2008 |  |
