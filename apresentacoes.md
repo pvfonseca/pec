@@ -32,7 +32,7 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 | Nicole Galloway Araujo | The state of New Keynesian economics: A partial assessment | Galí | 2018 | 22/11 |
 | Vitória Biasotto Coelho | Is there something really wrong with Macro? | Ricardo Reis | 2018 | 22/11 |
 | Luca Rafael da Silva Faria | The political economy of fiscal deficits: a survey | Marcela Eslava | 2011 | 26/11 |
-| Amanda de Oliveira Marques | Taylor rule estimation by OLS | Carvalho, Nechio, Tristão | 2021 | 26/11 |
+| Amanda de Oliveira Marques | The interactions between fiscal policy and monetary policy | Kirsanova, Stehn, Vines | 2005 | 26/11 |
 | Pedro Giacomelli Lopes | Endogenous money: what is and why it matters? | Thomas Palley | 2000 | 26/11 |
 | Thiago Vieira Xavier Sant'anna | Monetary policy in a new era | Ben Bernanke | 2017 | 26/11 |
 | Bruno Barcellos Gomes | Negative interest rate policies: sources and implications | Arteta, et al. | 2016 | 29/11 |
