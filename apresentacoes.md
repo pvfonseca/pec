@@ -22,5 +22,4 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 
 | Discente | Artigo | Autores | Ano | Data de apresentação |
 | :--- | :---: | :---: | :---: | ---: |
-| Lucas Heap | Convergence? Thoughts about the evolution of mainstream macroeconomics over the last 40 years
- | Olivier Blanchard | 2025 |  |
+| Lucas Heap | Convergence? Thoughts about the evolution of mainstream macroeconomics over the last 40 years | Olivier Blanchard | 2025 |  |
