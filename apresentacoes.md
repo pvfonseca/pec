@@ -27,3 +27,4 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 | Nickolas Meis | The macroeconomist as scientist and engineer | Gregory Mankiw | 2006 | |
 | André Carvalho |Monetary policy in a new era | Ben Bernanke | 2017 | |
 | Lucas Santiago | The history of macroeconomics from Keyness general theory to the present | De Vroey, Malgrange | 2011 | |
+| Pedro Henrique | Friedman's presidential address in the evolution of Macroeconomic thought | Mankiw, Reis | 2018 | |
