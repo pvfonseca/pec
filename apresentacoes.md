@@ -29,3 +29,4 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 | Lucas Santiago | The history of macroeconomics from Keyness general theory to the present | De Vroey, Malgrange | 2011 | |
 | Pedro Henrique | Friedman's presidential address in the evolution of Macroeconomic thought | Mankiw, Reis | 2018 | |
 | Eduardo Ishimine | Modern macroeconomics in practice: How theory is shaping policy | Chari, Kehoe | 2006 | |
+| Kaio Miguel | Is there something really wrong with macroeconomics? | Ricardo Reis | 2018 | |
