@@ -31,3 +31,4 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 | Eduardo Ishimine | Modern macroeconomics in practice: How theory is shaping policy | Chari, Kehoe | 2006 | |
 | Kaio Miguel | Is there something really wrong with macroeconomics? | Ricardo Reis | 2018 | |
 | Daniel Cauã | A quick refresher course in macroeconomics | Gregory Mankiw | 1990 | |
+| Caio Salles | Short-run and long-run effects of Milton Friedmans presidential address | Hall, Sargent | 2018 | |
