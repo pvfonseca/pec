@@ -32,3 +32,6 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 | Kaio Miguel | Is there something really wrong with macroeconomics? | Ricardo Reis | 2018 | |
 | Daniel Cauã | A quick refresher course in macroeconomics | Gregory Mankiw | 1990 | |
 | Caio Salles | Short-run and long-run effects of Milton Friedmans presidential address | Hall, Sargent | 2018 | |
+| Cassia Azenate | Should we reject the natural rate hypothesis | Blanchard | 2018 | |
+| Daniel Lemos | The old Keynesian model | Barro | 2025 | |
+| Gabriel Bernardes | Evolution of modern business cycle models: Accounting for the Great Recession | Kehoe, Midrigan, Pastorino | 2018 | |
