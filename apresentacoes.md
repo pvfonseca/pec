@@ -30,7 +30,7 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 | Lucas Heap | Convergence? Thoughts about the evolution of mainstream macroeconomics over the last 40 years | Olivier Blanchard | 2025 |  30/06 |
 | Pedro Henrique | Friedman's presidential address in the evolution of Macroeconomic thought | Mankiw, Reis | 2018 | 01/07 |
 | Caio Salles | Short-run and long-run effects of Milton Friedmans presidential address | Hall, Sargent | 2018 | 01/07 |
-| Cassia Azenate | Should we reject the natural rate hypothesis | Blanchard | 2018 | 01/07 |
+| Cassia Azenate | Mercado de trabalho em Keynes e o papel da rigidez de salários nominais | Nunes e Nunes | 1997 | 01/07 |
 | Daniel Lemos | The old Keynesian model | Barro | 2025 | 07/07 |
 | André Carvalho |Monetary policy in a new era | Ben Bernanke | 2017 | 07/07 |
 | Eduardo Ishimine | Modern macroeconomics in practice: How theory is shaping policy | Chari, Kehoe | 2006 | 08/07 |
