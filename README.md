@@ -7,12 +7,10 @@
 >
 > Contato: <a href="mailto:paulo.fonseca@udesc.br"> paulo.fonseca@udesc.br</a>
 >
-> Local: Sala 50, ESAG/UDESC
->
 > Horários:
 >
-> * Segundas-feiras das 10:15 às 11:55
-> * Terças-feiras das 10:15 às 11:55
+> * Segundas-feiras das 08:20 às 10:00, Sala 004 ESAG/UDESC
+> * Terças-feiras das 10:15 às 11:55, Sala 102 ESAG/UDESC
 > 
 ## Descrição do curso
 Curso de Pensamento Econômico Contemporâneo para o oitavo termo da Graduação em Ciências Econômicas da UDESC.
