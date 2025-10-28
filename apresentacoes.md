@@ -1,6 +1,6 @@
 # Terceira atividade avaliativa
 
-Cada estudante fará uma breve apresentação oral de papers selecionados que estejam relacionados ao conteúdo da disciplina no intervalo de 24 de Junho - 08 de Julho.
+Cada estudante fará uma breve apresentação oral de papers selecionados que estejam relacionados ao conteúdo da disciplina no intervalo de 17 de Novembro - 02 de Dezembro.
 
 As apresentações serão de 20 a 25 minutos de duração, de forma a permitir tempo para discussões e a apresentação de até três trabalhos em um único período de aula.
 
