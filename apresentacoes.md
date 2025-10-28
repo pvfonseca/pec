@@ -20,18 +20,26 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 - Limite de tempo - permanecer no tempo limite estipulado para a apresentação. (20 - 25 min).
 
 
-| Discente | Artigo | Autores | Ano | Data de apresentação |
-| :--- | :---: | :---: | :---: | ---: |
-| Daniel Cauã | A quick refresher course in macroeconomics | Gregory Mankiw | 1990 | 24/06 |
-| Lucas Santiago | The history of macroeconomics from Keyness general theory to the present | De Vroey, Malgrange | 2011 | 24/06 |
-| Cícero Nicacio | What do we know about macroeconomics that Fisher and Wicksell did not | Olivier Blanchard | 2000 | 24/06 |
-| Gabriel Bernardes | Evolution of modern business cycle models: Accounting for the Great Recession | Kehoe, Midrigan, Pastorino | 2018 | 30/06 |
-| Kaio Miguel | Is there something really wrong with macroeconomics? | Ricardo Reis | 2018 | 30/06 |
-| Lucas Heap | Convergence? Thoughts about the evolution of mainstream macroeconomics over the last 40 years | Olivier Blanchard | 2025 |  30/06 |
-| Pedro Henrique | Friedman's presidential address in the evolution of Macroeconomic thought | Mankiw, Reis | 2018 | 01/07 |
-| Caio Salles | Short-run and long-run effects of Milton Friedmans presidential address | Hall, Sargent | 2018 | 01/07 |
-| Cassia Azenate | Mercado de trabalho em Keynes e o papel da rigidez de salários nominais | Nunes e Nunes | 1997 | 01/07 |
-| Daniel Lemos | The old Keynesian model | Barro | 2025 | 07/07 |
-| André Carvalho |Monetary policy in a new era | Ben Bernanke | 2017 | 07/07 |
-| Eduardo Ishimine | Modern macroeconomics in practice: How theory is shaping policy | Chari, Kehoe | 2006 | 08/07 |
-| Nickolas Meis | The macroeconomist as scientist and engineer | Gregory Mankiw | 2006 | 08/07 |
+| Discente | Artigo | Autores | Ano | Debatedor | Data de apresentação |
+| :--- | :--- | :---: | :---: | :---: | ---: |
+| Amanda Bratti | | | | | |
+| Anselmo Davi | | | | | |
+| Arthur Vinicius | Central bank communication and monetary policy: a survey of theory and evidence | Blinder et al. | 2008 | | |
+| Bernard Locks | | | | | |
+| Bruno Francisco | | | | | |
+| Caio Zanella | | | | | |
+| Francisco Paulo | Research opportunities in economics: suggestions for the coming decade | Poterba | 2010 | | |
+| Gabriel Windmöller | | | | | |
+| Guilherme Grosskopf | | | | | |
+| Hyuri dos Santos |  Ten Years After the Financial Crisis: What Have We Learned from the Renaissance in Fiscal Research? | Ramey | 2019 | | |
+| Iago Vogel | Monetary policy in a new era | Bernanke | 2017 | | |
+| João Vitor | Convergence? Thoughts about the evolution of mainstream macroeconomics over the last 40 years | Blanchard | 2025 |  | | |
+| Joaquin Blanco | | | | | |
+| Lorenzo Ratier | | | | | |
+| Lucas Garcia | | | | | |
+| Lucca Bernardes | Friedman’s Presidential Address in the Evolution of Macroeconomic Thought | Mankiw, Reis | 2018 | | |
+| Luiz Henrique | | | | | |
+| Rafael Scatolino | | | | | |
+| Roni Nunes | Modern macroeconomics in practice: how theory is shaping policy? | Chari, Kehoe | 2006 | |
+| Thiago Costa | | | | | |
+| Yasmin Metzler | The political economy of fiscal deficits: a survey / The new political macroeconomics | Eslava/Alesina | 2011/2005 | | |
