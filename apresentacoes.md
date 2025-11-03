@@ -22,7 +22,7 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 
 | Discente | Artigo | Autores | Ano | Debatedor | Data de apresentação |
 | :--- | :--- | :---: | :---: | :---: | ---: |
-| Amanda Bratti | | | | | |
+| Amanda Bratti | Mercado de trabalho em Keynes e o papel da rigidez de salários nominais | Nunes, Nunes | 1997 | | |
 | Anselmo Davi | | | | | |
 | Arthur Vinicius | Central bank communication and monetary policy: a survey of theory and evidence | Blinder et al. | 2008 | | |
 | Bernard Locks | | | | | |
