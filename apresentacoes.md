@@ -31,7 +31,7 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 | Francisco Paulo | Research opportunities in economics: suggestions for the coming decade | Poterba | 2010 | | |
 | Gabriel Windmöller | | | | | |
 | Guilherme Grosskopf | | | | | |
-| Hyuri dos Santos |  Ten Years After the Financial Crisis: What Have We Learned from the Renaissance in Fiscal Research? | Ramey | 2019 | | |
+| Hyuri dos Santos |  Short-run and long-run effects of Milton Friedmans presidential address | Hall, Sargent | 2018 | | |
 | Iago Vogel | Monetary policy in a new era | Bernanke | 2017 | | |
 | João Vitor | Convergence? Thoughts about the evolution of mainstream macroeconomics over the last 40 years | Blanchard | 2025 |  | | |
 | Joaquin Blanco | | | | | |
