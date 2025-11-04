@@ -26,7 +26,7 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 | Anselmo Davi | | | | | |
 | Arthur Vinicius | Central bank communication and monetary policy: a survey of theory and evidence | Blinder et al. | 2008 | | |
 | Bernard Locks | | | | | |
-| Bruno Francisco | | | | | |
+| Bruno Francisco | Agent-based macroeconomics and DSGE models | Dilaver, Jump, Levine | 2018 | | |
 | Caio Zanella | The Colonial Origins of Comparative Development | Acemoglu, Johnson, Robinson | 2001 | | |
 | Francisco Paulo | Research opportunities in economics: suggestions for the coming decade | Poterba | 2010 | | |
 | Gabriel Windmöller | | | | | |
