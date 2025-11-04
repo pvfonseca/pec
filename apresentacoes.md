@@ -27,7 +27,7 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 | Arthur Vinicius | Central bank communication and monetary policy: a survey of theory and evidence | Blinder et al. | 2008 | | |
 | Bernard Locks | | | | | |
 | Bruno Francisco | | | | | |
-| Caio Zanella | | | | | |
+| Caio Zanella | The Colonial Origins of Comparative Development | Acemoglu, Johnson, Robinson | 2001 | | |
 | Francisco Paulo | Research opportunities in economics: suggestions for the coming decade | Poterba | 2010 | | |
 | Gabriel Windmöller | | | | | |
 | Guilherme Grosskopf | | | | | |
@@ -38,7 +38,7 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 | Lorenzo Ratier | | | | | |
 | Lucas Garcia | | | | | |
 | Lucca Bernardes | Friedman’s Presidential Address in the Evolution of Macroeconomic Thought | Mankiw, Reis | 2018 | | |
-| Luiz Henrique | | | | | |
+| Luiz Henrique | Should we reject the natural rate hypothesis? | Blanchard | 2018 | | |
 | Rafael Scatolino | | | | | |
 | Roni Nunes | Modern macroeconomics in practice: how theory is shaping policy? | Chari, Kehoe | 2006 | |
 | Thiago Costa | | | | | |
