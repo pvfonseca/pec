@@ -30,11 +30,11 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 | Caio Zanella | The Colonial Origins of Comparative Development | Acemoglu, Johnson, Robinson | 2001 | | |
 | Francisco Paulo | Research opportunities in economics: suggestions for the coming decade | Poterba | 2010 | | |
 | Gabriel Windmöller | A quick refresher course in macroeconomics | Mankiw | 2000 | | |
-| Guilherme Grosskopf | | | | | |
+| Guilherme Grosskopf | Inflation, expectations and monetary what have we learned and to what end? | Coibion, Gorodnichenko | 2025 | | |
 | Hyuri dos Santos |  Short-run and long-run effects of Milton Friedmans presidential address | Hall, Sargent | 2018 | | |
 | Iago Vogel | Monetary policy in a new era | Bernanke | 2017 | | |
 | João Vitor | Convergence? Thoughts about the evolution of mainstream macroeconomics over the last 40 years | Blanchard | 2025 |  | | |
-| Joaquin Blanco | | | | | |
+| Joaquin Blanco | Evolution of modern business cycle models: Accounting for the Great Recession | Kehoe, Midrigan, Pastorino | 2018 | | |
 | Lorenzo Ratier | | | | | |
 | Lucas Garcia | | | | | |
 | Lucca Bernardes | Friedman’s Presidential Address in the Evolution of Macroeconomic Thought | Mankiw, Reis | 2018 | | |
