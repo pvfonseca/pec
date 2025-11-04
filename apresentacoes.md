@@ -25,11 +25,11 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 | Amanda Bratti | Mercado de trabalho em Keynes e o papel da rigidez de salários nominais | Nunes, Nunes | 1997 | | |
 | Anselmo Davi | | | | | |
 | Arthur Vinicius | Central bank communication and monetary policy: a survey of theory and evidence | Blinder et al. | 2008 | | |
-| Bernard Locks | | | | | |
+| Bernard Locks |  The new political macroeconomics | Alesina | 2005 | | |
 | Bruno Francisco | Agent-based macroeconomics and DSGE models | Dilaver, Jump, Levine | 2018 | | |
 | Caio Zanella | The Colonial Origins of Comparative Development | Acemoglu, Johnson, Robinson | 2001 | | |
 | Francisco Paulo | Research opportunities in economics: suggestions for the coming decade | Poterba | 2010 | | |
-| Gabriel Windmöller | | | | | |
+| Gabriel Windmöller | A quick refresher course in macroeconomics | Mankiw | 2000 | | |
 | Guilherme Grosskopf | | | | | |
 | Hyuri dos Santos |  Short-run and long-run effects of Milton Friedmans presidential address | Hall, Sargent | 2018 | | |
 | Iago Vogel | Monetary policy in a new era | Bernanke | 2017 | | |
@@ -42,4 +42,4 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 | Rafael Scatolino | | | | | |
 | Roni Nunes | Modern macroeconomics in practice: how theory is shaping policy? | Chari, Kehoe | 2006 | |
 | Thiago Costa | | | | | |
-| Yasmin Metzler | The political economy of fiscal deficits: a survey / The new political macroeconomics | Eslava/Alesina | 2011/2005 | | |
+| Yasmin Metzler | The political economy of fiscal deficits: a survey | Eslava | 2011 | | |
