@@ -22,14 +22,14 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 
 | Discente | Artigo | Autores | Ano | Debatedor | Data de apresentação |
 | :--- | :--- | :---: | :---: | :---: | ---: |
-| Gabriel Windmöller | A quick refresher course in macroeconomics | Mankiw | 2000 | Lucas Garcia | 18/11 |
-| Lucas Garcia | The state of macro | Blanchard | 2008 | Gabriel Windmöller | 18/11 |
-| Lorenzo Ratier | The state of New Keynesian economics - A partial assessment | Galí | 2018 | João Vitor | 18/11 |
-| João Vitor | Convergence? Thoughts about the evolution of mainstream macroeconomics over the last 40 years | Blanchard | 2025 | Lorenzo Ratier | 18/11 |
-| Amanda Bratti | Mercado de trabalho em Keynes e o papel da rigidez de salários nominais | Nunes, Nunes | 1997 | Lucca Bernardes | 19/11 |
-| Lucca Bernardes | Friedman’s Presidential Address in the Evolution of Macroeconomic Thought | Mankiw, Reis | 2018 | Amanda Bratti | 19/11 |
-| Hyuri dos Santos |  Short-run and long-run effects of Milton Friedman's presidential address | Hall, Sargent | 2018 | Luiz Henrique | 19/11 |
-| Luiz Henrique | Should we reject the natural rate hypothesis? | Blanchard | 2018 | Hyuri dos Santos | 19/11 |
+| Gabriel Windmöller | A quick refresher course in macroeconomics | Mankiw | 2000 | Lucas Garcia | 17/11 |
+| Lucas Garcia | The state of macro | Blanchard | 2008 | Gabriel Windmöller | 17/11 |
+| Lorenzo Ratier | The state of New Keynesian economics - A partial assessment | Galí | 2018 | João Vitor | 17/11 |
+| João Vitor | Convergence? Thoughts about the evolution of mainstream macroeconomics over the last 40 years | Blanchard | 2025 | Lorenzo Ratier | 17/11 |
+| Amanda Bratti | Mercado de trabalho em Keynes e o papel da rigidez de salários nominais | Nunes, Nunes | 1997 | Lucca Bernardes | 18/11 |
+| Lucca Bernardes | Friedman’s Presidential Address in the Evolution of Macroeconomic Thought | Mankiw, Reis | 2018 | Amanda Bratti | 18/11 |
+| Hyuri dos Santos |  Short-run and long-run effects of Milton Friedman's presidential address | Hall, Sargent | 2018 | Luiz Henrique | 18/11 |
+| Luiz Henrique | Should we reject the natural rate hypothesis? | Blanchard | 2018 | Hyuri dos Santos | 18/11 |
 | Arthur Vinicius | Central bank communication and monetary policy: a survey of theory and evidence | Blinder et al. | 2008 | Rafael Scatolino | 24/11 |
 | Rafael Scatolino | Communication about future policy rates in theory and practice: A survey | Moessner et al. | 2016 | Arthur Vinicius | 24/11 |
 | Iago Vogel | Monetary policy in a new era | Bernanke | 2017 | Guilherme Grosskopf | 24/11 |
