@@ -1,6 +1,6 @@
 # Terceira atividade avaliativa
 
-Cada estudante fará uma breve apresentação oral de papers selecionados que estejam relacionados ao conteúdo da disciplina no intervalo de 17 de Novembro - 02 de Dezembro.
+Cada estudante fará uma breve apresentação oral de papers selecionados que estejam relacionados ao conteúdo da disciplina no intervalo de 25 de Junho - 06 de Julho.
 
 As apresentações serão de 20 a 25 minutos de duração, de forma a permitir tempo para discussões e a apresentação de até três trabalhos em um único período de aula.
 
@@ -22,24 +22,14 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 
 | Discente | Artigo | Autores | Ano | Debatedor | Data de apresentação |
 | :--- | :--- | :---: | :---: | :---: | ---: |
-| Gabriel Windmöller | A quick refresher course in macroeconomics | Mankiw | 2000 | Lucas Garcia | 17/11 |
-| Lucas Garcia | The state of macro | Blanchard | 2008 | Gabriel Windmöller | 17/11 |
-| Lorenzo Ratier | The state of New Keynesian economics - A partial assessment | Galí | 2018 | João Vitor | 17/11 |
-| João Vitor | Convergence? Thoughts about the evolution of mainstream macroeconomics over the last 40 years | Blanchard | 2025 | Lorenzo Ratier | 17/11 |
-| Amanda Bratti | Mercado de trabalho em Keynes e o papel da rigidez de salários nominais | Nunes, Nunes | 1997 | Lucca Bernardes | 18/11 |
-| Lucca Bernardes | Friedman’s Presidential Address in the Evolution of Macroeconomic Thought | Mankiw, Reis | 2018 | Amanda Bratti | 18/11 |
-| Hyuri dos Santos |  Short-run and long-run effects of Milton Friedman's presidential address | Hall, Sargent | 2018 | Luiz Henrique | 18/11 |
-| Luiz Henrique | Should we reject the natural rate hypothesis? | Blanchard | 2018 | Hyuri dos Santos | 18/11 |
-| Arthur Vinicius | Central bank communication and monetary policy: a survey of theory and evidence | Blinder et al. | 2008 | Rafael Scatolino | 24/11 |
-| Rafael Scatolino | Communication about future policy rates in theory and practice: A survey | Moessner et al. | 2016 | Arthur Vinicius | 24/11 |
-| Iago Vogel | Monetary policy in a new era | Bernanke | 2017 | Guilherme Grosskopf | 24/11 |
-| Guilherme Grosskopf | Inflation, expectations and monetary what have we learned and to what end? | Coibion, Gorodnichenko | 2025 | Iago Vogel | 24/11 |
-| Roni Nunes | Modern macroeconomics in practice: how theory is shaping policy? | Chari, Kehoe | 2006 | Thiago Costa | 25/11 |
-| Thiago Costa | The ordinary business of macroeconometric modeling - working on the Fed-MIT-Penn model (1964-1974) | Backhouse, Cherrier | 2018 | Roni Nunes | 25/11 |
-| Joaquin Blanco | Evolution of modern business cycle models: Accounting for the Great Recession | Kehoe, Midrigan, Pastorino | 2018 | Bruno Francisco | 25/11 |
-| Bruno Francisco | Agent-based macroeconomics and DSGE models | Dilaver, Jump, Levine | 2018 | Joaquin Blanco | 25/11 |
-| Bernardo Locks |  The new political macroeconomics | Alesina | 2005 | Yasmin Metzler | 01/12 |
-| Yasmin Metzler | The political economy of fiscal deficits: a survey | Eslava | 2011 | Bernardo Locks| 01/12 |
-| Caio Zanella | The Colonial Origins of Comparative Development | Acemoglu, Johnson, Robinson | 2001 | Paulo Fonseca | 01/12 |
-| Anselmo Davi | Is there something really wrong with macro? | Reis | 2018 | Francisco Paulo | 02/12 |
-| Francisco Paulo | Research opportunities in economics: suggestions for the coming decade | Poterba | 2010 | Anselmo Davi | 02/12 |
+| Eduardo Panse | The macroeconomist as scientist and engineer | Mankiw | 2006 | -- | xx/xx |
+| Gustavo Barbosa | Marshall and Walras: Incompatible bedfellows? | De Vroey | 2009 | -- | xx/xx |
+| Julia Bender | -- | -- | -- | -- | xx/xx |
+| Lucas Fabre | -- | -- | -- | -- | xx/xx |
+| Luiza Luz | Modern Macroeconomics in Practice: How Theory Is Shaping Policy | Chari, Kehoe | 2006 | -- | xx/xx |
+| Moser Damasceno | -- | -- | -- | -- | xx/xx |
+| Nicole Mussoi | -- | -- | -- | -- | xx/xx |
+| Otávio Ganan | Convergence? Thoughts about the evolution of mainstream macroeconomics over the last 40 years | Blanchard | 2025 | -- | xx/xx |
+| Pedro Subtil | -- | -- | -- | -- | xx/xx |
+| Rafael da Rocha | -- | -- | -- | -- | xx/xx |
+| Róbson Hoffmann | -- | -- | -- | -- | xx/xx |
