@@ -24,7 +24,7 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 | :--- | :--- | :---: | :---: | :---: | ---: |
 | Eduardo Panse | The macroeconomist as scientist and engineer | Mankiw | 2006 | -- | xx/xx |
 | Gustavo Barbosa | Marshall and Walras: Incompatible bedfellows? | De Vroey | 2009 | -- | xx/xx |
-| Julia Bender | -- | -- | -- | -- | xx/xx |
+| Julia Bender | Ten years after the financial crisis - What have we learned from the renaissance in fiscal research | Ramey | 2019 | -- | xx/xx |
 | Lucas Fabre | -- | -- | -- | -- | xx/xx |
 | Luiza Luz | Modern Macroeconomics in Practice: How Theory Is Shaping Policy | Chari, Kehoe | 2006 | -- | xx/xx |
 | Moser Damasceno | -- | -- | -- | -- | xx/xx |
