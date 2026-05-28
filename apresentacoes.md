@@ -28,7 +28,7 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 | Lucas Fabre | -- | -- | -- | -- | xx/xx |
 | Luiza Luz | Modern Macroeconomics in Practice: How Theory Is Shaping Policy | Chari, Kehoe | 2006 | -- | xx/xx |
 | Moser Damasceno | -- | -- | -- | -- | xx/xx |
-| Nicole Mussoi | -- | -- | -- | -- | xx/xx |
+| Nicole Mussoi | The Consumption Response to Income Changes | Jappelli, Pistaferri | 2010 | -- | xx/xx |
 | Otávio Ganan | Convergence? Thoughts about the evolution of mainstream macroeconomics over the last 40 years | Blanchard | 2025 | -- | xx/xx |
 | Pedro Subtil | -- | -- | -- | -- | xx/xx |
 | Rafael da Rocha | -- | -- | -- | -- | xx/xx |
