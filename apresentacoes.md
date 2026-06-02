@@ -27,7 +27,7 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 | Julia Bender | -- | -- | -- | -- | xx/xx |
 | Lucas Fabre | -- | -- | -- | -- | xx/xx |
 | Luiza Luz | Modern Macroeconomics in Practice: How Theory Is Shaping Policy | Chari, Kehoe | 2006 | -- | xx/xx |
-| Moser Damasceno | -- | -- | -- | -- | xx/xx |
+| Moser Damasceno | The political economy of fiscal deficits: A survey | Eslava | 2011 | -- | xx/xx |
 | Nicole Mussoi | -- | -- | -- | -- | xx/xx |
 | Otávio Ganan | Convergence? Thoughts about the evolution of mainstream macroeconomics over the last 40 years | Blanchard | 2025 | -- | xx/xx |
 | Pedro Subtil | -- | -- | -- | -- | xx/xx |
