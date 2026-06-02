@@ -30,6 +30,6 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 | Otávio Ganan | Convergence? Thoughts about the evolution of mainstream macroeconomics over the last 40 years | Blanchard | 2025 | Luiza Luz | 30/06 |
 | Rafael da Rocha | The state of New Keynesian economics: A partial assessment | Galí | 2018 | Róbson Hoffmann | 02/07 |
 | Róbson Hoffmann | Is there something really wrong with macro? | Reis | 2018 | Rafael da Rocha | 02/07 |
-| Nicole Mussoi | The Consumption Response to Income Changes | Jappelli, Pistaferri | 2010 | Paulo Fonseca | 02/07 |
+| Nicole Mussoi | The Consumption Response to Income Changes | Jappelli, Pistaferri | 2010 | Paulo Fonseca | 07/07 |
 | Julia Bender | Ten years after the financial crisis - What have we learned from the renaissance in fiscal research | Ramey | 2019 | Moser Damasceno | 07/07 |
 | Moser Damasceno | The political economy of fiscal deficits: A survey | Eslava | 2011 | Julia Bender | 07/07 |
