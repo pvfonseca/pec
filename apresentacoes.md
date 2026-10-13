@@ -25,3 +25,4 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 | Julio | The macroeconomist as scientist and engineer | Mankiw | 2006 |  |  |
 | Eduarda Coelho | Is there something really wrong with macro? | Reis | 2018 |  | 02/07 |
 | Davi | A history of Macroeconomics | Sergi et al. | 2026 |  | 07/07 |
+| Luan | Agent-based macroeconomics and DSGE models | Dilaver, Jump, Levine | 2018 | | |
