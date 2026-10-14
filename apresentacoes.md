@@ -1,6 +1,6 @@
 # Terceira atividade avaliativa
 
-Cada estudante fará uma breve apresentação oral de papers selecionados que estejam relacionados ao conteúdo da disciplina no intervalo de 25 de Junho - 07 de Julho.
+Cada estudante fará uma breve apresentação oral de papers selecionados que estejam relacionados ao conteúdo da disciplina no intervalo de 17 de Novembro - 01 de Dezembro.
 
 As apresentações serão de 20 a 25 minutos de duração, de forma a permitir tempo para discussões e a apresentação de até três trabalhos em um único período de aula.
 
@@ -22,7 +22,8 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 
 | Discente | Artigo | Autores | Ano | Debatedor | Data de apresentação |
 | :--- | :--- | :---: | :---: | :---: | ---: |
-| Julio | The macroeconomist as scientist and engineer | Mankiw | 2006 |  |  |
-| Eduarda Coelho | Is there something really wrong with macro? | Reis | 2018 |  | 02/07 |
-| Davi | A history of Macroeconomics | Sergi et al. | 2026 |  | 07/07 |
-| Luan | Agent-based macroeconomics and DSGE models | Dilaver, Jump, Levine | 2018 | | |
+| Julio Candido | The macroeconomist as scientist and engineer | Mankiw | 2006 |  |  |
+| Eduarda Coelho | Is there something really wrong with macro? | Reis | 2018 |  |  |
+| Davi Ramos | A history of Macroeconomics | Sergi et al. | 2026 |  |  |
+| Luan Goulart | Agent-based macroeconomics and DSGE models | Dilaver, Jump, Levine | 2018 | | |
+| Igor Thomaz | Central bank communication and monetary policy: a survey of theory and evidence | Blinder et al. | 2008 | | |
