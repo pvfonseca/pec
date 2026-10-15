@@ -27,3 +27,4 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 | Davi Ramos | A history of Macroeconomics | Sergi et al. | 2026 |  |  |
 | Luan Goulart | Agent-based macroeconomics and DSGE models | Dilaver, Jump, Levine | 2018 | | |
 | Igor Thomaz | Central bank communication and monetary policy: a survey of theory and evidence | Blinder et al. | 2008 | | |
+| Bruno Brasil | Ten years after the financial crisis: What have we learned from the renaissance in fiscal research | Ramey | 2019 | |
