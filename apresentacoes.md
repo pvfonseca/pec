@@ -32,3 +32,4 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 | João Oliveira | The state of New Keynesian economics: A partial assessment | Galí | 2018 | |
 | Gabriel Estanislau | Divergence, big time | Pritchett | 1997 | |
 | Júlia Cantarelli | Convergence? Thoughts about the evolution of mainstream macroeconomics over the last 40 years | Blanchard | 2025 | |
+| Delfina Miranda | What do we know about macroeconomics that Fisher and Wicksell did not | Blanchard | 2000 | |
