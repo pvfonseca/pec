@@ -30,3 +30,4 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 | Bruno Brasil | Ten years after the financial crisis: What have we learned from the renaissance in fiscal research | Ramey | 2019 | |
 | Nicole Eleutério | Climate change: The ultimate challenge for economics | Nordhaus | 2018 | |
 | João Oliveira | The state of New Keynesian economics: A partial assessment | Galí | 2018 | |
+| Gabriel Estanislau | Divergence, big time | Pritchett | 1997 | |
