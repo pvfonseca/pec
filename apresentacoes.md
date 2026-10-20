@@ -33,3 +33,4 @@ As apresentações serão avaliadas de acordo com os seguintes critérios:
 | Gabriel Estanislau | Divergence, big time | Pritchett | 1997 | |
 | Júlia Cantarelli | Convergence? Thoughts about the evolution of mainstream macroeconomics over the last 40 years | Blanchard | 2025 | |
 | Delfina Miranda | What do we know about macroeconomics that Fisher and Wicksell did not | Blanchard | 2000 | |
+| Eduarda Padilha | Microeconomic foundations of macroeconomic stabilization | Committee for the Nobel Prize in economic sciences | 2026 | |
